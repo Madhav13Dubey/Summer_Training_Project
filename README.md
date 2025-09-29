@@ -1,9 +1,10 @@
 # 🔒 Information Leakage Prevention Through AI Enabled Pattern Matching Algorithm On Social Media 
 
 
+
 ## 🎯 Motto of Our Project  
 <p align="center">
-  <b>SPEAK FREELY, STAY PROTECTED</b>  
+  <b><i>SPEAK FREELY, STAY PROTECTED </i></b>  
 </p>
 
 ---
